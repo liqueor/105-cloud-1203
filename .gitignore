@@ -1,0 +1,22 @@
+# Project exclude paths
+/105-cloud-config/target/
+/105-cloud-config1/target/
+/105-cloud-conmmo/target/
+/105-cloud-eureka/target/
+/105-cloud-eureka2/target/
+/105-cloud-feign-consumer/target/
+/105-cloud-provider/target/
+/105-cloud-ribbon-consumer/target/
+/105-cloud-turbine/target/
+/105-cloud-zuul/target/
+
+# Idea
+.idea
+*.iws
+*.iml
+*/*.iml
+*.ipr
+
+.settings
+.classpath
+.project
